@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/srv7showrov/srv7showrov/blob/main/showrovSRV7.jpg?raw=true" width="100%" />
+</p>
 <!--
 **srv7showrov/srv7showrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
